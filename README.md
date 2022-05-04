@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wu Xinyu
 
-- 🙌🏼 I'm looking for a new job
+- 🌱 I'm looking for a new job
 - 🔭 I’m currently working on the opensource web application firewall - [coraza](https://github.com/corazawaf/coraza)
 
 <!--
