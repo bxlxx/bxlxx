@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Wu Xinyu
+
+- 🙌🏼 I'm looking for a new job
+- 🔭 I’m currently working on the opensource web application firewall - [coraza](https://github.com/corazawaf/coraza)
 
 <!--
 **bxlxx/bxlxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
