@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Wu Xinyu
+### Hi there 👋 I'm Syin Wu
 
 - 🌱 I’m currently learning English
 - 🔭 I’m currently working on the web application firewall - [coraza](https://github.com/corazawaf/coraza)
